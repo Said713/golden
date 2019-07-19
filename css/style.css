@@ -27,7 +27,7 @@ header {
 
 }
 .head-bg-img  {
-	background: url(../image/bg/Background_Image.png.lnk) no-repeat  center center;
+	background: url(../image/bg/Background_Image.png) no-repeat  center center;
 	/*-webkit-background-size: cover;
 	background-size: cover;*/
 }
